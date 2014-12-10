@@ -1,0 +1,32 @@
+/* HOME PAGE ================================== */
+
+#centered_large {
+  text-align: center;
+  font-size: 50px;
+}
+
+#home * {
+	font-size: 30px;
+}
+
+/* lists */
+
+#first_list {
+	float: left;
+	margin-left: 50px;
+}
+
+#second_list {
+	float: right;
+	margin-top: 0px;
+}
+
+#third_list {
+	text-align: center;
+}
+
+#wrap_first_two {
+	display: inline-block;
+	width: 100%;
+}
+/* ============================================ */
