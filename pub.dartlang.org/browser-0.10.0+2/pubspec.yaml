@@ -1,5 +1,5 @@
 name: browser
-version: 0.10.0+2
+version: any
 author: "Dart Team <misc@dartlang.org>"
 homepage: http://www.dartlang.org
 description: >
