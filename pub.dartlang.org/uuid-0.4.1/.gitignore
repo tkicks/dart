@@ -1,9 +1,0 @@
-tests/packages
-*pubspec.lock
-.children
-.project
-packages/
-packages
-*.iml
-.idea/
-out/
